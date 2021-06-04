@@ -1,3 +1,5 @@
+# johnsGit
+TWO FIND AVEREGE WEIGHT OF SEAL USING ARRAY FUNCTION
 /******************************************************************************/
 /* CREATOR - JOHNS RAJU */ 
 /* PROGRAM - TO FIND AVG WEIGHT OF SEAL */
